@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LEditor
+  - GhostEditor
+  - Setas
+  - ladder
+  - Portal
+  - box
+  - Hand
+  - Ice
+  - Water
+  - Vaso
+  - Gramofone
+  - CheckGraound
+  - Power
+  - HandTrue
+  - Grade
+  - Lamparina
+  - VasoFixo
+  - Canhao
+  - Cutscene
+  - Porta
+  - 'Espinho '
+  - ParedePortal
+  - ZonaDeCalor
+  - ZonaDeFrio
+  - Morte
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Puzzle
+  - Grade
+  - Vaso
+  - Player
+  - Button
+  - Triggers
+  - Ice
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
